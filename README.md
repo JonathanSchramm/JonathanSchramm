@@ -95,7 +95,7 @@
 </p>
 
 <a> 
-    <a href="https://github.com/JonathanSchramm"><img alt="JSN Github Stats" src="https://github-readme-stats.vercel.app/api?username=JonathanSchramm&theme=highcontrast&show_icons=true&hide_border=true&count_private=true"/></a>
+    <a href="https://github.com/JonathanSchramm"><img alt="JSN Github Stats" src="https://github-readme-stats.vercel.app/api?username=JonathanSchramm&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" height="192px" width="49.5%"/></a>
   <a href="https://github.com/JonathanSchramm"><img alt="JSN Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanSchramm&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" height="192px" width="49.5%"/></a>
   <br/>
 </a>
